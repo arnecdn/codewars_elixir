@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CodewarsElixir
 
 **TODO: Add description**
@@ -20,6 +19,3 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/codewars_elixir](https://hexdocs.pm/codewars_elixir).
 
-=======
-# codewars_elixir
->>>>>>> 206e56cf83d5e6ac27b635aa5323c40d6491114e
